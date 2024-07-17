@@ -1,0 +1,6 @@
+.DS_Store
+venv/
+excel/
+data/
+json-data/
+downloaded/
